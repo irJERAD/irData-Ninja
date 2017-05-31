@@ -36,3 +36,6 @@ googleAnalytics = "UA-54516992-1"
     name = "Info"
     url  = "/#about"
     weight = 3
+    
+[context.production.environment]
+  HUGO_VERSION = "0.21"
