@@ -1,24 +1,24 @@
-title = "Osprey Example Site"
-baseURL = "https://tomanistor.com"
-tags = ["portfolio", "web design", "blog"]
+title = "irData Ninja"
+baseURL = "http://irData.Ninja"
+tags = ["portfolio", "data", "analytics", "quantitative"]
 languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
-googleAnalytics = ""
+googleAnalytics = "UA-54516992-1"
 
 [Params]
-    author = "Toma Nistor"
-    description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
-    logoBig = "/images/osprey-logo.png"
-    logoSmall = "/images/osprey-logo.png"
+    author = "Jerad Acosta"
+    description = "Devoted student of _Data Ninjutsu_"
+    logoBig = "/images/DataWordCloud.png"
+    logoSmall = "/images/DataWordCloud.png"
     favicon = "favicon.ico"
-    opengraphImage = "/images/osprey.png"
-    disqusShortname = "tomanistor"
-    twitter = "TomaNistor"
-    linkedin = "tomanistor"
-    github = "tomanistor"
-    email = ""
+    opengraphImage = "/images/DataWordCloud.png"
+    disqusShortname = "irJERAD"
+    twitter = "irJERAD"
+    linkedin = "JeradAcosta"
+    github = "irJERAD"
+    email = "iam@Jerad.xyz"
     googleTagManger = ""
     highlightJS = true
     copyright = true
@@ -26,13 +26,13 @@ googleAnalytics = ""
 
 [[menu.main]]
     name = "Work"
-    url  = "/#work"
+    url  = "/#portfolio"
     weight = 1
 [[menu.main]]
-    name = "Blog"
+    name = "Thoughts"
     url  = "/#blog"
     weight = 2
 [[menu.main]]
-    name = "Contact"
-    url  = "/#contact"
+    name = "Info"
+    url  = "/#about"
     weight = 3
