@@ -64,13 +64,13 @@
   </url>
   
   <url>
-    <loc>http://irData.Ninja/tags/development/</loc>
+    <loc>http://irData.Ninja/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://irData.Ninja/categories/development/</loc>
+    <loc>http://irData.Ninja/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -88,13 +88,13 @@
   </url>
   
   <url>
-    <loc>http://irData.Ninja/tags/golang/</loc>
+    <loc>http://irData.Ninja/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://irData.Ninja/categories/golang/</loc>
+    <loc>http://irData.Ninja/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
