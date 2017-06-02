@@ -1,5 +1,5 @@
 title = "irData Ninja"
-baseURL = "http://irData.Ninja"
+baseURL = "/"
 tags = ["portfolio", "data", "analytics", "quantitative"]
 languageCode = "en-US"
 config = "config.toml"
