@@ -3,6 +3,7 @@ baseURL = "/"
 tags = ["portfolio", "data", "analytics", "quantitative"]
 languageCode = "en-US"
 config = "config.toml"
+publishDir = "docs"     # added by irJERAD
 theme = "osprey"
 canonifyURLS = true
 googleAnalytics = "UA-54516992-1"

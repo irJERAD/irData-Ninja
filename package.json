@@ -1,7 +1,8 @@
 {
   "scripts": {
      "build": "hugo --theme=hemingway2 --baseURL 'https://__baseurl__' --buildDrafts",
-     "deploy": "npm run build && aero deploy -d public"
+     "deploy": "npm run build && aero deploy -d public",
+     "start": "hugo serve"
   },
   "devDependencies": {
       "aerobatic-cli": "*"
