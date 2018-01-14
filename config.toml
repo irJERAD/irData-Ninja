@@ -19,21 +19,21 @@ googleAnalytics = "UA-54516992-1"
     twitter = "irJERAD"
     linkedin = "JeradAcosta"
     github = "irJERAD"
-    email = "iam@Jerad.xyz"
+    email = "ir@Jerad.xyz"
     googleTagManger = ""
     highlightJS = true
     copyright = true
     credit = true
 
 [[menu.main]]
-    name = "Work"
-    url  = "/#portfolio"
+    name = "Thoughts"
+    url  = "/#thoughts"
     weight = 1
 [[menu.main]]
-    name = "Thoughts"
-    url  = "/#blog"
+    name = "Info"
+    url  = "/#info"
     weight = 2
 [[menu.main]]
-    name = "Info"
+    name = "About"
     url  = "/#about"
     weight = 3
