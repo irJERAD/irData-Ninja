@@ -1,7 +1,7 @@
 +++
 date = "2017-06-01T15:15:37-07:00"
 description = ""
-title = "about"
+title = "irAbout <small>data</small>"
 
 +++
 
