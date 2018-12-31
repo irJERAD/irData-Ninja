@@ -19,7 +19,7 @@ googleAnalytics = "UA-54516992-1"
     twitter = "irJERAD"
     linkedin = "JeradAcosta"
     github = "irJERAD"
-    email = "ir@Jerad.xyz"
+    email = "jsacosta1103@gmail.com"
     googleTagManger = ""
     highlightJS = true
     copyright = true
@@ -28,7 +28,7 @@ googleAnalytics = "UA-54516992-1"
 [[menu.main]]
     name = "Thoughts"
     url  = "/#thoughts"
-    weight = 1
+    weight = 4
 [[menu.main]]
     name = "Info"
     url  = "/#info"
@@ -37,3 +37,7 @@ googleAnalytics = "UA-54516992-1"
     name = "About"
     url  = "/#about"
     weight = 3
+[[menu.main]]
+    name = "Story Time"
+    url  = "/#storytime"
+    weight = 1

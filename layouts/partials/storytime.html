@@ -1,0 +1,21 @@
+<section class="thoughts" id="storytime">
+    <div class="container">
+        <div class="row center-xs">
+            <div class="col-xs-12"><h1>More Goalies Than Goals To Attend To</h1></div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 posts-list">
+                {{ range first 10 .Data.Pages }}
+                {{ if eq .Type "storytime" }}
+                    <article>
+                        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                        <div class=sub-header>
+                          {{ .Date.Format (.Site.Params.dateform | default "January 2006") }} · {{ .ReadingTime }} minute read
+                        </div>
+                    </article>
+                {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
