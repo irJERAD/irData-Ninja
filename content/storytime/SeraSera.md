@@ -8,4 +8,4 @@ weight: 1
 
 Testing a post
 
-[Written as it is, so it is](/images/SeraSera.html)
+[Written as it is, so it is](/images/SeraSera.html.html)
